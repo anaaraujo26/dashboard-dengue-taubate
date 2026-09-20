@@ -32,7 +32,7 @@ Apresenta:
 - filtro por ano.
 
 ### Visualização da Página 1
-![Dashboard Dengue - Sazonalidade e Tendências Temporais](dashboard_pag1.png)
+![Dashboard Dengue - Sazonalidade e Tendências Temporais](Dashboard_pag1.png)
 
 ### Página 2 — Perfil Demográfico e Gravidade
 
