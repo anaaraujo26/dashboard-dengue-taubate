@@ -44,7 +44,7 @@ Apresenta:
 - filtro interativo por ano.
 
 ### Visualização da Página 2
-![Dashboard Dengue - Perfil Demográfico e Gravidade](dashboard_pag2.png)
+![Dashboard Dengue - Perfil Demográfico e Gravidade](Dashboard_pag2.png)
 
 ## Ferramentas utilizadas
 
