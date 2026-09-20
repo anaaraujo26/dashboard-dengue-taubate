@@ -31,6 +31,9 @@ Apresenta:
 - distribuição mensal;
 - filtro por ano.
 
+### Visualização da Página 1
+![Dashboard Dengue - Sazonalidade e Tendências Temporais](dashboard_pagina1.png)
+
 ### Página 2 — Perfil Demográfico e Gravidade
 
 Apresenta:
@@ -39,6 +42,9 @@ Apresenta:
 - distribuição por sexo;
 - evolução dos casos;
 - filtro interativo por ano.
+
+### Visualização da Página 2
+![Dashboard Dengue - Perfil Demográfico e Gravidade](dashboard_pagina2.png)
 
 ## Ferramentas utilizadas
 
